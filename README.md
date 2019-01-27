@@ -1,4 +1,4 @@
-Shopping list v4
+Nats Blog Api
 ================
 
-https://github.com/Thinkful-Ed/node-shopping-list-v4
+https://github.com/nathogato/blog-api
